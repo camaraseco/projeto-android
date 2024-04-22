@@ -32,7 +32,7 @@ header {
     background-image: linear-gradient(to bottom, var(--cor0), var(--cor4));
     color: var--cor5;
     height: 150px;
-    padding: 10px;
+    padding: 5px;
 }
 
 
@@ -49,7 +49,7 @@ h1 {
     font: normal 3em var(--font-destaque), sans-serif;
     text-align: center;
     color: var(--cor5);
-    padding: 10px;
+    padding: 5px;
 }
 
 
@@ -61,12 +61,13 @@ header > p {
     color: var(--cor5);
     font-size: 1.2em; 
     font-family: var(--font-padrao);
-    padding-bottom: 50px;
+    padding-bottom: 10px;
 }
 
 nav {
     margin: 0px;
     padding: 12px;
+    padding-top: 60px;
     font: bold 1em Arial, Helvetica, sans-serif;
     background-color: var(--cor4);
     box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.555);
